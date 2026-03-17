@@ -4,7 +4,7 @@ This project demonstrates how a SOC analyst inspects network traffic to detect s
 
 Tasks Performed:
 - DNS traffic inspection
-- HTTP request analysis
+- FTP request analysis
 - Detection of possible scanning activity
 
 Tool Used:
